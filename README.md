@@ -1,5 +1,5 @@
 # CV
-### This is my CV!
+### This is my [CV](https://github.com/KirillYashin/CV/blob/main/CV.pdf)!
 ### You can send me jobs offers via e-mail
 ```
 kerik-yashin@yandex.ru
